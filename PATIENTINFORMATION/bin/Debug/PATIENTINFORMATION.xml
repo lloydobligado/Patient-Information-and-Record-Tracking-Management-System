@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PATIENTINFORMATION
+</name>
+</assembly>
+<members>
+<member name="P:PATIENTINFORMATION.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources._8_LES">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.ADDBUTTON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.AMCLOGO">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.BACKGROUND01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.BACKGROUND02">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.CANCELBUTTON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.DASHBOARDICON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.DELETEBUTTON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.DOCTOR1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.DOCUMENTSREQUESTSICON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.giphy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.GREENBUTTON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.HANAPIN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.HOMEICON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.ikalawangslide">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.ikatlongslide">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.MALABO">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.MEDICALHISTORYICON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.NOPREVIEWBUTTON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.PATIENTINFORMATIONICON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.PHOTOBUTTON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.PREVIEWBUTTON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.REDBUTTON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.SAVEBUTTON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.SECRETARY1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.SETTING">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.TOP">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.TOP2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.TOP3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.TOP6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.unangslide">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.USFLAG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PATIENTINFORMATION.My.Resources.Resources.YELLOWBUTTON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PATIENTINFORMATION.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
